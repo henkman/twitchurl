@@ -6,5 +6,5 @@ first you need to get a twitch client id by creating a twitch application and se
 
 ```
 $ go get github.com/henkman/twitchurl/cmd/twitchurl
-$ twitchurl forsen 720p | vlc.exe --no-video-title-show -
+$ twitchurl forsen 720p | vlc --no-video-title-show -
 ```
